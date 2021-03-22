@@ -16,7 +16,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "prepublish": "echo hello-world"
+    "prepublish": "echo hello-world",
+    "publish": "echo hello-world publish"
   },
   "eslintConfig": {
     "extends": [
